@@ -62,7 +62,7 @@ padding-bottom: 0.3rem;
     color: red;
     gap: 1rem;
     .emoji {
-        position: fixed;     
+        position: absolute;     
         svg {
             font-size: 1.5rem;
             color: #ffff00c8;
@@ -79,11 +79,12 @@ aside.EmojiPickerReact.epr-main {
     border-width: 1px;
     display: flex;
     flex-direction: column;
-    position: fixed;
+    position: absolute;
 }
 
 .EmojiPickerReact {
-    top: 90px;
+    // top: 90px;
+    top: -480px;
     background-color: var(--epr-bg-color);
     overflow: hidden;
     background-color: #080420;
