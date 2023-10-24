@@ -10,7 +10,7 @@ require("dotenv").config();
 
 app.use(cors(
     {
-        origin: ["https://realtime-chat-app.vercel.app"],
+        origin: ["https://chaton-app.vercel.app/"],
         methods: ["POST", "GET"],
         credentials: true
     }
