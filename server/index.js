@@ -8,13 +8,7 @@ const app = express();
 const socket = require("socket.io");
 require("dotenv").config();
 
-app.use(cors(
-    {
-        origin: ["https://chaton-app.vercel.app/"],
-        methods: ["POST", "GET"],
-        credentials: true
-    }
-));
+app.use(cors());
 app.use(express.json());
 
 app.use("/api/auth", userRoutes);
