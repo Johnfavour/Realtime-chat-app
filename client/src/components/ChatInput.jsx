@@ -165,6 +165,7 @@ aside.EmojiPickerReact.epr-main {
         display: flex;
         justify-content: center;
         align-items: center;
+        cursor: pointer;
         background-color: #9a86f3;
         border: none;
         @media screen and (min-width: 720px) and (max-width: 1080px){
