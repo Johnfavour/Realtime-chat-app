@@ -47,13 +47,7 @@ Ready to dive into ChatOn? Follow these simple steps to get started:
 That's it! You can now access ChatOn via your web browser at `http://localhost:3000`.
 
 ## Screenshots
-
-![ChatOn Screenshot 1](/![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/3af3cd05-0b34-4552-b6d8-14a816262ac2)
-)
-![ChatOn Screenshot 2](/![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/656028e3-6c2d-4804-85aa-6bc3bfa93ba3)
-)
-![ChatOn Screenshot 3](/![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/8b270d5d-4df2-480c-b93b-65464c21846c)
-)
+![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/9f345629-72fd-43ba-abab-f26c6823118d)
 
 
 ## License
