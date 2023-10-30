@@ -48,9 +48,12 @@ That's it! You can now access ChatOn via your web browser at `http://localhost:3
 
 ## Screenshots
 
-![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/228e6fa0-42fa-415d-96bf-b435a684e2d6)
-![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/2f2ec9f1-6dc1-4311-b0a8-ee986a1b322d)
-![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/4e76a35d-d346-4b32-b3f2-7c9cfb7266a9)
+![ChatOn Screenshot 1](/![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/3af3cd05-0b34-4552-b6d8-14a816262ac2)
+)
+![ChatOn Screenshot 2](/![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/656028e3-6c2d-4804-85aa-6bc3bfa93ba3)
+)
+![ChatOn Screenshot 3](/![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/8b270d5d-4df2-480c-b93b-65464c21846c)
+)
 
 
 ## License
