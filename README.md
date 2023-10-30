@@ -49,6 +49,9 @@ That's it! You can now access ChatOn via your web browser at `http://localhost:3
 ## Screenshots
 ![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/9f345629-72fd-43ba-abab-f26c6823118d)
 
+![image](https://github.com/Johnfavour/Realtime-chat-app/assets/113635549/9fb655b4-5018-4eaa-a395-ef7c7722f131)
+
+
 
 ## License
 
