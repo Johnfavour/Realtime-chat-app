@@ -34,7 +34,7 @@ Ready to dive into ChatOn? Follow these simple steps to get started:
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/chaton.git`
+1. Clone this repository: `git clone https://github.com/Johnfavour/Realtime-chat-app.git`
 2. Navigate to the project directory: `cd chaton`
 3. Install server dependencies: `cd server && npm install`
 4. Install client dependencies: `cd client && npm install`
