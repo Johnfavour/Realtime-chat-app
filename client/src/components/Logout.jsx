@@ -25,15 +25,6 @@ border-radius: 0.5rem;
 background-color: #9a86f3;
 border: none;
 cursor: pointer;
-@media (max-width: 600px) {
-    width: 90%;
-}
-@media (min-width: 601px) and (max-width: 1024px) {
-    width: 45%;
-}
-@media (min-width: 1025px) {
-    width: 30%;
-}
 svg {
     font-size: 1.3rem;
     color: #ebe7ff;
