@@ -117,9 +117,6 @@ const Container = styled.div`
       @media (max-width: 600px) {
           width: 90%;
       }
-      @media (min-width: 1025px) {
-          width: 30%;
-      }
     .chat-header {
         display: flex;
         justify-content: space-between;
