@@ -151,15 +151,6 @@ aside.EmojiPickerReact.epr-main {
     align-content: center;
     gap: 2rem;
     background-color: #ffffff34;
-    @media (max-width: 600px) {
-        width: 90%;
-    }
-    @media (min-width: 601px) and (max-width: 1024px) {
-        width: 45%;
-    }
-    @media (min-width: 1025px) {
-        width: 30%;
-    }
     input {
         width: 90%;  
         background-color: transparent;
