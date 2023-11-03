@@ -114,6 +114,12 @@ const Container = styled.div`
     @media screen and (min-width:720px) and (max-width: 1080px) {
         grid-template-rows: 15% 70% 15%;
       }
+      @media (max-width: 600px) {
+          width: 90%;
+      }
+      @media (min-width: 1025px) {
+          width: 30%;
+      }
     .chat-header {
         display: flex;
         justify-content: space-between;
