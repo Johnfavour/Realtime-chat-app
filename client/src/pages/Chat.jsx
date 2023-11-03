@@ -95,6 +95,15 @@ const Container = styled.div`
     grid-template-columns: 25% 75%;
     @media screen and (min-width:720px) and (max-width: 1080px) {
       grid-template-columns: 35% 65%;
+      @media (max-width: 600px) {
+        width: 90%;
+    }
+    @media (min-width: 601px) and (max-width: 1024px) {
+        width: 45%;
+    }
+    @media (min-width: 1025px) {
+        width: 30%;
+    }
     }
   }
 `;

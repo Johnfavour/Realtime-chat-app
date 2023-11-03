@@ -130,6 +130,15 @@ const FormContainer = styled.div`
  gap: 1rem;
  align-items: center;
  background-color: #001F3F;
+ @media (max-width: 600px) {
+    width: 90%;
+}
+@media (min-width: 601px) and (max-width: 1024px) {
+    width: 45%;
+}
+@media (min-width: 1025px) {
+    width: 30%;
+}
  .brand {
     display: flex;
     align-items: center;

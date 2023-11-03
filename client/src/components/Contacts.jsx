@@ -156,6 +156,22 @@ const Container = styled.div`
             }
         }
     }
+    @media (max-width: 600px) {
+        width: 90%;
+        .username {
+            h2 {
+                font-size: 1rem;
+            }
+        }
+    }
+    @media (min-width: 1025px) {
+        width: 30%;
+        .username {
+            h2 {
+                font-size: 1rem;
+            }
+        }
+    }
   }
 `;
 

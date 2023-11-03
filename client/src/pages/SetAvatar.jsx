@@ -113,6 +113,15 @@ const Container = styled.div`
     background-color: #001F3F;
     height: 100vh;
     width: 100vw;
+    @media (max-width: 600px) {
+        width: 90%;
+    }
+    @media (min-width: 601px) and (max-width: 1024px) {
+        width: 45%;
+    }
+    @media (min-width: 1025px) {
+        width: 30%;
+    }
     .loader{
         max-inline-size: 100%;
     }
