@@ -113,9 +113,6 @@ const Container = styled.div`
     background-color: #001F3F;
     height: 100vh;
     width: 100vw;
-    @media screen and (min-width:600px) and (max-width: 1080px) {
-        grid-template-rows: 15% 70% 15%;
-    }
     .loader{
         max-inline-size: 100%;
     }
