@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import  {useState} from 'react'
 import styled from 'styled-components'
 import Picker from 'emoji-picker-react'
 import  {IoMdSend} from 'react-icons/io'
