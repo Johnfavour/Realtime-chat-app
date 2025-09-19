@@ -1,5 +1,5 @@
 const User = require("../model/userModel");
-const bcrypt = require("bcrypt"); //bcrypt is used for encrypting password
+const bcrypt = require("bcrypt"); 
 
 
 module.exports.register = async(req, res, next) => {
