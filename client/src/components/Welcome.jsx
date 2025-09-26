@@ -5,12 +5,13 @@ import Logout from './Logout';
 const Welcome = ({ currentUser }) => {
     return(
         <Container>
+            <Logout/>
             <img src={Robot} alt="Robot" />
             <h1>
                 Welcome, <span>{currentUser.username}!</span>
             </h1>
             <h3>Please select a chat to Start Messaging.</h3>
-            <Logout/>
+            
         </Container>
     );
 };
